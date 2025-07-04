@@ -76,7 +76,7 @@ notebooks/model_training.ipynb
 
 Or run a Python script to train the model on your dataset.
 
- live App
+🌐 live app
 
 
 
