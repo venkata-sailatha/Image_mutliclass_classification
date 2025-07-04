@@ -4,6 +4,10 @@
 A deep learning project for performing image classification across multiple classes using Convolutional Neural Networks (CNNs). This project includes model training, evaluation, and deployment in a web interface using Streamlit.
 
 ---
+🚀 Demo
+
+![image](https://github.com/user-attachments/assets/13dc06a4-5162-401b-9d6f-e6ccdaa514d2)
+
 
 ## 📌 Features
 
@@ -72,14 +76,9 @@ notebooks/model_training.ipynb
 
 Or run a Python script to train the model on your dataset.
 
-### 4. Run the Web App
+ live App
 
-```bash
-cd app
-streamlit run app.py
-```
 
----
 
 ## 🧪 Model Performance
 
